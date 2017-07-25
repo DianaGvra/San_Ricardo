@@ -24,10 +24,6 @@
 
         <!-- Plugins -->
 
-        <preference name="SplashScreen" value="none"/>
-        <preference name="Fullscreen" value="true" />
-        <preference name="orientation" value="portrait" />  
-        <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
         <!--<gap:plugin name="org.apache.cordova.inappbrowser" />-->
 
 
